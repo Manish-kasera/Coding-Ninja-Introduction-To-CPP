@@ -1,0 +1,13 @@
+Compiler assigns a garbage value to an uninitialised local 
+variable in C++ Programming ?
+
+
+This problem has only one correct answer
+
+True
+False
+
+Hurray! Correct Answer
+
+Solution Description
+In C++, all variables contain garbage values before their initialisation.

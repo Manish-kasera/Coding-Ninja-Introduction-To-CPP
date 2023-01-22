@@ -1,0 +1,18 @@
+What will be the output of following statement ? Consider that header files are already included in the code, and this line is written inside the main().
+
+
+int a = 10;
+char ch = 'a';
+ch = ch + a;
+cout << ch << endl;
+
+
+Note: A character or integer without a space could be the corresponding answer value. Pay attention to the capital and lowercase letters.
+
+Answer
+k
+
+Correct Answer
+
+Solution Description
+We know that the addition of a character and an integer leads to an integer. So the statement - "ch + a" will give the answer 107 (ASCII value of 'a' is 97). But we are assigning this integer now to the character variable. Hence, 107 will be saved in the variable "ch" and on printing it will print the character which is having ASCII value 107 i.e. 'k'. 

@@ -1,0 +1,19 @@
+What will be the output of following statement ? Consider that header files are already included in the code, and this line is written inside the main().
+
+
+char c = 74;
+cout << c;
+
+
+Note-1: A character or integer without a space could be the corresponding answer value. Pay attention to the capital and lowercase letters.
+
+
+Note-2: You can refer the ASCII value table.
+
+Answer
+J
+
+Correct Answer
+
+Solution Description
+When we assign an integer to a character variable, that integer will be treated as ASCII value of corresponding character. 74 is ASCII value of letter 'J'. Hence, 'J' will be printed.

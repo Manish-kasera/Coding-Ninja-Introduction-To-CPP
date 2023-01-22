@@ -1,0 +1,19 @@
+What will be the output of following statement ? Consider that header files are already included in the code, and this line is written inside the main().
+
+
+int i = 'd';
+cout << i;
+
+
+Note-1: A character or integer without a space could be the corresponding answer value. Pay attention to the capital and lowercase letters.
+
+
+Note-2: You can refer the ASCII value table.
+
+Answer
+100
+
+Correct Answer
+
+Solution Description
+When we put char 'd' into an integer, its associated ASCII value will be put in the integer i.e. 100.
