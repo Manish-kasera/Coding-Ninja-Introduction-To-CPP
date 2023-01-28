@@ -1,0 +1,12 @@
+What will be the output ?
+for(int i = 0; i < 5; i = i + 1) {
+     if(i == 2) 
+           continue;
+    cout << i << " ";
+} 
+
+This problem has only one correct answer
+0 1
+0 1 3 4
+0 1 2 3 4
+0 1 2 3 4 5
