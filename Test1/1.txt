@@ -1,0 +1,17 @@
+If & Else
+
+Find the output.
+int p = 100;
+if(p > 20) {
+    if(p < 20) {
+        cout<<"coding";
+    }
+} else {
+    cout<<"ninjas";
+}
+
+This problem may have one or more correct answers
+coding
+ninjas
+codingninjas
+No Output 

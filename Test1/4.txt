@@ -1,0 +1,11 @@
+And/Or Operator
+
+Please select the correct statement(s) about && and || operators.
+
+Options
+This problem may have one or more correct answers
+1. a && b is true if either a or b is true
+2. (a || b) && c is true if c is true and either a or b is true 
+3. a && b is false if both a and b are true
+4. a || b is true if either a or b is true 
+Hurray! Correct Answer
