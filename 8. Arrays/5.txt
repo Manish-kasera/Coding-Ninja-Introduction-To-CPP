@@ -1,0 +1,22 @@
+Function calling
+
+What is the correct syntax for passing array to a function -
+
+void func(int a[]) {
+}
+
+int main() {
+    int a[10];
+    // Call function "func" and pass array a
+}
+
+
+Options
+
+This problem has only one correct answer
+func(a[]);
+func(a[10]);
+func(int a[10]);
+func(a);
+
+Hurray! Correct Answer

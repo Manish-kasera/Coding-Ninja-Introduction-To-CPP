@@ -1,0 +1,16 @@
+What is the output
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a[10];
+    cout << sizeof(a) << endl;
+}
+
+This problem has only one correct answer
+10
+40
+4
+8
+Hurray! Correct Answer

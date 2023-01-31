@@ -1,0 +1,10 @@
+Array declaration
+
+Which of the following correctly declares an array of size 10 ?
+
+Options
+This problem has only one correct answer
+int array[10];
+int array;
+array{10};
+array array[10];

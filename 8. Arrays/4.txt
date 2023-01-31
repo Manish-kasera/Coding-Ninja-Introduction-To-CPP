@@ -1,0 +1,9 @@
+Access element
+
+Which of the following accesses the third element stored in array?
+
+This problem has only one correct answer
+array[3]
+array[2]
+array(3)
+array

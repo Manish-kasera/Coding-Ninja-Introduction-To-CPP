@@ -1,0 +1,21 @@
+What is the output
+
+Assume an integer takes 4 bytes and a pointer takes 8 bytes.
+#include <iostream>
+using namespace std;
+
+void func(int a[]) {
+    cout << sizeof(a) << endl;
+}
+
+int main() {
+    int a[10];
+    func(a);
+}
+
+This problem has only one correct answer
+10
+40
+4
+8 (Sahi)
+Hurray! Correct Answer

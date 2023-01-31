@@ -1,0 +1,11 @@
+What is the output
+
+What will be the output of the following code ?
+
+int arr[100];
+cout << arr[0];
+
+This problem has only one correct answer
+0
+0 and Garbage value
+Error
